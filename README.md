@@ -1,1 +1,3 @@
-# Udacity-Studying-Group
+.
+
+# Udacity Studying Group
